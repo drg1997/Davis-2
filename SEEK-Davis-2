@@ -15,17 +15,20 @@
 
 <body>
   <div class="container">
+    <p align="center">
+      <img src="SEEK LOGO.jpg" height="200" width="500"/>
+    </p>
+  </div>
+  <div class="container">
     <div class="nav">
-      <ul class="pull-left">
-        <li><img src="SEEK LOGO.jpg" height="200" width="500"/></li>
-      </ul>
-      <ul class="pull-right">
-        <li>Design</li>
-        <li>Test</li>
-        <li>Analyze</li>
-        <li>Submit to SEEK</li>
-        <li>Help</li>
-      </ul>
+       <ul align="center">
+         <li>Home</li>
+         <li>Design</li>
+         <li>Test</li>
+         <li>Sumbit to SEEK</li>
+         <li>Analysis</li>
+         <li>Help</li>
+       </ul>
     </div>
   </div>
 </body>

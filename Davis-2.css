@@ -4,7 +4,15 @@ blue = #153986;
 dark blue = #1B2F5A;
 really dark blue = #1D2943;
 almost black but still a little blue = #10141C;
+
+light yellow = #1D2943;
+slightly less light yellow = #CCB400;
+medium yellow = #AD9900;
+dark yellow = #8F7E00;
+darkest yellow = #6C5F00;
 */
+
+
 
 
 body {
@@ -16,4 +24,11 @@ li {
   font-size: 30px;
   padding-left: 30px;
   padding-right: 30px;
+}
+
+.nav {
+  background-color: #1D2943;
+  color : white;
+  border-radius: 10px;
+  text
 }
