@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+  <title>SEEK-Davis-2</title>
+  <!--Font-->
+  <link href='http://fonts.googleapis.com/css?family=Play' rel='stylesheet' type='text/css'>
+  <!--Bootstrap-->
+  <link href="http://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css" rel="stylesheet"/>
+  <!--Custom Stylesheet-->
+  <link href="Davis-2.css" rel="stylesheet"/>
+</head>
+
+
+<body>
+  <div class="container">
+    <div class="nav">
+      <ul class="pull-left">
+        <li><img src="SEEK LOGO.jpg" height="200" width="500"/></li>
+      </ul>
+      <ul class="pull-right">
+        <li>Design</li>
+        <li>Test</li>
+        <li>Analyze</li>
+        <li>Submit to SEEK</li>
+        <li>Help</li>
+      </ul>
+    </div>
+  </div>
+</body>
+
+
+</html>

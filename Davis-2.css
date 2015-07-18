@@ -1,0 +1,19 @@
+/*Colors
+light blue = #0642C2;
+blue = #153986;
+dark blue = #1B2F5A;
+really dark blue = #1D2943;
+almost black but still a little blue = #10141C;
+*/
+
+
+body {
+  font-family: 'Play', sans-serif;
+}
+
+li {
+  display: inline;
+  font-size: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
