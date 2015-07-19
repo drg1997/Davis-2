@@ -31,6 +31,11 @@
        </ul>
     </div>
   </div>
+  <div class="container">
+    <div class="jumbotron">
+      <h1>The Standardized Enzyme Engineering Knowledgebase</h1>
+    </div>
+  </div>
 </body>
 
 

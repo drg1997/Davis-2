@@ -32,3 +32,12 @@ li {
   border-radius: 10px;
   text
 }
+
+.jumbotron {
+  background-image: url(https://www.autismspeaks.org/sites/default/files/images/dna_image.jpg);
+}
+
+.jumbotron h1 {
+  color: white;
+  padding-right: 400px;
+}
