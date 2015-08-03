@@ -38,6 +38,10 @@ li {
 }
 
 .jumbotron h1 {
-  color: white;
-  padding-right: 400px;
+  color: #153986;
+  padding-right: 600px;
+}
+
+.jumbotron b {
+  color: #1B2F5A;
 }
